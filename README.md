@@ -1,6 +1,6 @@
 # Git practical task
 
-1.1 Pull this remote repository `https://github.com/PavelBui/Git-Practical-Task-2024/tree/main` to your local computer.
+1.1 Pull this remote repository `https://github.com/Git-Practical-Task-2024/Git-Task` to your local computer.
 
 1.2 Create a new branch using a pattern **name_surname_group**, where name – your name, surname – your surname, group – your group number (1, 2, 3, 4, 5).
 
