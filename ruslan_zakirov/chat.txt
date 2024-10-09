@@ -5,3 +5,4 @@ Password: *********
 root@Admin:~# opt-get remove windows
 root@Admin:~#
 My question to you is: what is your favorite color?
+Answer: #00ff59(light green) and #000000(black)
