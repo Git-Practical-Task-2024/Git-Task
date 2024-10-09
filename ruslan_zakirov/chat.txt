@@ -1,0 +1,6 @@
+guest@MariusDescartes:-$ sudo -u Admin
+Password: *********
+Admin@MariusDescartes:-$ sudo -u root
+Password: *********
+root@Admin:~# opt-get remove windows
+root@Admin:~#
