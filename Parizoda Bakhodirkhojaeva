@@ -1,0 +1,13 @@
+git clone https://github.com/Git-Practical-Task-2024/Git-Task.git
+cd Git-Task
+git checkout -b parizoda_bakhodirkhojaeva_1
+mkdir parizoda_bakhodirkhojaeva
+cd parizoda_bakhodirkhojaeva
+touch chat.txt
+echo "Hello, this is Pari." > chat.txt
+git add .
+git commit -m "Added  folder parizoda_bakhodirkhojaeva with chat.txt file"
+git push origin parizoda_bakhodirkhojaeva_1
+
+Here is the link to my branch: 
+https://github.com/Git-Practical-Task-2024/Git-Task/tree/parizoda_bakhodirkhojaeva_1
