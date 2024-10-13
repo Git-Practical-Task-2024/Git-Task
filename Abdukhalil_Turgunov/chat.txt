@@ -1,2 +1,3 @@
-print(''[DABDUKHALIL TURGUNOV')
+print('ABDUKHALIL TURGUNOV')
 What languages ​​do you speak?
+Oops...I speak Uzbek, Russian, English and also French😎
