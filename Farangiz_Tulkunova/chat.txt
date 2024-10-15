@@ -1,1 +1,3 @@
 What color do you like?
+
+yellow
