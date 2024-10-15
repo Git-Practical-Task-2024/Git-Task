@@ -8,7 +8,7 @@
 
 1.4 Commit your changes and push your remote branch to the remote repository.
 
-**Deadline – 1 week (until 23:59 UTC+5 October 13)**.
+**Deadline – 1 week (until 23:59 UTC+5 October 20)**.
 
 ## After instructor will update your chat.txt file and put a question in it.
 
@@ -18,4 +18,4 @@
 
 2.3 Commit your changes and push this commit to the remote repository.
 
-**Deadline – 1 week (until 23:59 UTC+5 October 27)**.
+**Deadline – 1 week (until 23:59 UTC+5 October 26)**.
