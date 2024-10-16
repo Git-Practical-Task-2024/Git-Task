@@ -1,1 +1,3 @@
 What languages ​​do you speak?
+
+I know Russion, Uzbek, English, JavaScript, php, nodejs, dart, java.
