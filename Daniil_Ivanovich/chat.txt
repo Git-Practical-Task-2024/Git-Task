@@ -2,5 +2,5 @@ Hello teacher!
 Your branch should has name daniil_volodin_2 or daniil_ivanovich_volodin_2. But I can work with this one.
 My question is: What is your favorite book?
 
-I renamed my branch, but I can not rename my folder now, I think for this I can only download new folder with new name later. 
+I renamed my branch, but I can not rename my folder now, I think for this I can only download a new folder with the new name later. 
 Answering your question: my favorite book is "With Fire and Sword" (pl. Ogniem i mieczem) written by Henryk Sienkiewicz. 
