@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 What is your favorite book?
 Franz Gafka-"The Metamorphosis"
-=======
-What is your favorite book?
->>>>>>> 3509181cb5215748d9158ccadc4520633ea60f5a
