@@ -1,0 +1,3 @@
+I cloned the remote repository from https://github.com/Git-Practical-Task-2024/Git-Task to my local machine. After that, I created a new branch following the naming pattern Ravsana_Mirzo_4_group, where I replaced name, surname, and group with my own details.
+
+Once I was on the new branch, I created a folder named after my name and surname, again following the pattern Ravsana_Mirzo. Inside that folder, I added a file named chat.txt.
